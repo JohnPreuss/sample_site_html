@@ -5,4 +5,9 @@
 .nav_spacing {
   margin-left: 10px;
   text-decoration: none;
+}
+
+.unstyled_link {
+  text-decoration: none;
   color: blue;
+}
